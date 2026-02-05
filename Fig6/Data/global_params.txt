@@ -1,0 +1,12 @@
+dt   0.001
+nsteps   20000
+n_update    10
+ntrials   1000000000
+nsamples   20000
+kappa   1000.0
+center   0.5
+file_ldf   'ldf_local_time.txt'
+xmin 0.
+xmax 3.2
+dx  0.001
+dx_new 0.005
