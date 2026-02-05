@@ -1,0 +1,11 @@
+dt   0.01
+nsteps   10000
+n_update    40
+ntrials   10000000000
+nsamples   20000
+kappa   100
+nwalker 3
+file_ldf   'ldf_3walker.txt'
+xmin -0.5
+xmax 14.0
+dx 0.005
