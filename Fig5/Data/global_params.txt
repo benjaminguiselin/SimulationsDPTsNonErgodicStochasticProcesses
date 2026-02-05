@@ -1,0 +1,12 @@
+dt   0.01 
+nsteps   10000 
+n_update    40 
+ntrials   10000000000 
+nsamples   20000 
+kappa   10000 
+left_boundary   -1.0 
+right_boundary   1.0 
+file_ldf   'ldf_residence_time.txt'
+xmin 0.
+xmax 1.
+dx 0.0005
