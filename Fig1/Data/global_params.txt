@@ -1,0 +1,10 @@
+dt   0.01 
+nsteps   10000 
+n_update    40 
+ntrials   1000000000 
+nsamples   20000 
+kappa   100 
+xmin -4.5
+xmax 4.5
+dx 0.01
+file_ldf 'ldf_end_position.txt'
